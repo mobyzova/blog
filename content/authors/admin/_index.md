@@ -36,9 +36,9 @@ interests:
 # Education to show in About widget
 education:
   courses:
-    - курс: Среднее общее образование.
-    - организатор: Советская средняя школа №10.
-      год: 2012-2023.
+    - course : Среднее общее образование.
+    - organization: Советская средняя школа №10.
+    - year: 2012-2023.
 
 # Skills
 # For available icons, see: https://docs.hugoblox.com/getting-started/page-builder/#icons
