@@ -36,8 +36,7 @@ interests:
 # Education to show in About widget
 education:
   courses:
-    - course : Среднее общее образование.
-    - organization: Советская средняя школа №10.
+    - course : Среднее общее образование. Советская средняя школа №10.
     - year: 2012-2023.
 
 # Skills
