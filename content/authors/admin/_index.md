@@ -37,7 +37,6 @@ interests:
 education:
   courses:
     - course : Среднее общее образование. Советская средняя школа №10.
-    - year: 2012-2023.
 
 # Skills
 # For available icons, see: https://docs.hugoblox.com/getting-started/page-builder/#icons
