@@ -104,7 +104,7 @@ sections:
           date_end: '2023-05-31'
           date_start: '2021-09-01'
           description: ''
-          icon: 6jtx6wo9ipt5cgy4rp8ukuttfkofgyx0
+          icon: vsosh_logo_main
           organization: Всероссийская олимпиада школьников.
           organization_url: https://vos.olimpiada.ru/
           title: Призерство и участие во всероссийской олимпиаде школьников по английскому языку.
@@ -113,7 +113,7 @@ sections:
           date_end: '2023-05-31'
           date_start: '2021-09-01'
           description: ''
-          icon: 6jtx6wo9ipt5cgy4rp8ukuttfkofgyx0
+          icon: vsosh_logo_main
           organization: Всероссийская олимпиада школьников.
           organization_url: https://vos.olimpiada.ru/
           title: Призерство и участие во всероссийской олимпиаде школьников по литературе.
