@@ -44,38 +44,38 @@ skills:
   - name: Technical
     items:
       - name: Python
-        description: ''
-        percent: 80
+        description: 'Навык программирования и разработки на языке Python.'
+        percent: 90
         icon: python
         icon_pack: fab
-      - name: Data Science
-        description: ''
-        percent: 100
-        icon: chart-line
+      - name: C++
+        description: 'Навык программирования и разработки на языке С++.'
+        percent: 60
+        icon: file
         icon_pack: fas
-      - name: SQL
-        description: ''
+      - name: Assembler
+        description: 'Навык программирования и разработки на языке Ассемблер.'
         percent: 40
-        icon: database
+        icon: desktop
         icon_pack: fas
   - name: Hobbies
     color: '#eeac02'
     color_border: '#f0bf23'
     items:
-      - name: Hiking
-        description: ''
-        percent: 60
-        icon: person-hiking
+      - name: Learning foreign languages
+        description: 'Знание английского и немецкого языка. Перевод и реферирование общественно-политических текстов.'
+        percent: 90
+        icon: language
         icon_pack: fas
-      - name: Cats
-        description: ''
+      - name: Reading and books analysis
+        description: 'Чтение и книжный анализ.'
         percent: 100
-        icon: cat
+        icon: book
         icon_pack: fas
-      - name: Photography
-        description: ''
+      - name: Fitness
+        description: 'Регулярные занятия пробежкой и фитнесом, йогой.'
         percent: 80
-        icon: camera-retro
+        icon: bicycle
         icon_pack: fas
 
 # Social/Academic Networking
