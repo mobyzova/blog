@@ -1,6 +1,6 @@
 ---
 # Display name
-title: Бызова Мария Олеговна
+title: Бы́зова Мари́я Оле́говна
 
 # Name pronunciation (optional)
 name_pronunciation: Бызова Мария Олеговна
